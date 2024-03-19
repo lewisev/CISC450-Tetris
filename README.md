@@ -24,6 +24,6 @@ You can hit **Q** to quit the game, which will stop the client and the server.
 
 ## How to run
 1. Have C installed on your computer
-2. Run `make tetris` to compile the C files into executables
+2. Run `make` to compile the C files into executables
 3. On one terminal window, run `./tetris_server` to start the server
 4. On another terminal window, run `./client` to start the client.
